@@ -1,0 +1,13 @@
+.nurses-hiring-priority-score-form-container {
+	display: flex;
+	justify-content: space-between;
+	width: 18em;
+	padding:  0 0 1em 0;
+}
+
+.nurses-hiring-priority-score-form-container select {
+	width: 15em;
+	border: 2px solid black;
+	cursor: pointer;
+}
+
